@@ -1,8 +1,10 @@
-### Hi there, I'm Sumit 👋 
+## Hi there, I'm Sumit 👋 
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://teensumit.github.io)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/teensumit)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/teensumit/)
+
+&nbsp;
 
 - 👋 Hi, I’m Sumit
 
