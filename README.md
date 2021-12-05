@@ -5,6 +5,11 @@
 - 🌱 I’m currently learning ML
 
 - 💞️ I’m looking to collaborate on Flutter, Android apps
+
+<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=teensumit&show_icons=true&hide_border=true&count_private=true" />
+
+<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teensumit&layout=compact" />
+
 <!-- - 📫 How to reach me ... -->
 
 <!---
