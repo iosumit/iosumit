@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning ML
 
-- 💞️ I’m looking to collaborate on Flutter, Android apps
+- 💞️ I’m looking to collaborate on Flutter, Android apps, Javascript
 
 ---
 
