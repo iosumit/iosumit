@@ -1,8 +1,8 @@
 ## Hi there, I'm Sumit 👋 
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://teensumit.github.io)
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/teensumit)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/teensumit/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://iosumit.github.io)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/iosumit)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iosumit/)
 
 ## About Me:
 
@@ -43,9 +43,9 @@
 ---
 
 
-<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=teensumit&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=iosumit&show_icons=true&hide_border=true&count_private=true" />
 
-<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teensumit&layout=compact" />
+<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iosumit&layout=compact" />
 
 <!-- - 📫 How to reach me ... -->
 
